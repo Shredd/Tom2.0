@@ -8,15 +8,17 @@ Tom is a Test Voice Recognition program i created to learn more about speech rec
 
 Tom 2.0 has expanded the Scope of what it can such as:
 
-Regex Engine to pull out keywords so make it more responsive
+- Regex Engine to pull out keywords so make it more responsive
 
-Open Notepad when asked
+- Open Notepad when asked
 
 Hide Mode: 
 
-"Mode 1" allows you walk away from your computer as it displays a full screen black image (can you the windows key to go to the image to exit as a second option)
+- "Mode 1" allows you walk away from your computer as it displays a full screen black image (can you the windows key to go to the image to exit as a second option)
 
-"Mode 0" - disables this mode
+- "Mode 0" - disables this mode
+
+(This can be expanded to include many more features such as: Searching Google with Spoken Word, Move Mouse to Avoid computer from going to sleep, API calls to ChatGPT, ECT.)
 
 
 ---
@@ -29,11 +31,11 @@ As i learn more, this code will be updated in the future.
 
 you will need:
 
-(you can install with pip or apt)
+(you can install with pip)
 
-librarys needed: PyAudio Speech_Recognition Pillow Pygame
+- librarys needed: PyAudio Speech_Recognition Pillow Pygame
 
-programs that are not librarys that you will need to install: espeak
+- programs that are not librarys that you will need to install: espeak
 
 ---
 
