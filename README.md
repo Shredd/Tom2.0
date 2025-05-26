@@ -1,5 +1,7 @@
 # Tom2.0
 
+Systems this runs on: (Windows)
+
 Tom is a Test Voice Recognition program i created to learn more about speech recognition in python 3 a few years ago, very outdated
 
 ---
@@ -19,11 +21,11 @@ Hide Mode:
 
 ---
 
-NOTE: As i learn more, this code will be updated in the future.
+# Note
 
-Systems: (Linux)
+As i learn more, this code will be updated in the future.
 
---INFO--
+# Needed Libs and Programs
 
 you will need:
 
@@ -36,8 +38,6 @@ programs that are not librarys that you will need to install: espeak
 ---
 
 # How To Use
-
----
 
 First you will need to download espeak, and when you download the program it will come with a command line folder:
 ![CommandLine](https://github.com/user-attachments/assets/d4a48faf-e7e9-4756-8272-de3fa4ea0162)
