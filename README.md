@@ -14,7 +14,7 @@ Tom 2.0 has expanded the Scope of what it can such as:
 
 Hide Mode: 
 
-- "Mode 1" allows you walk away from your computer as it displays a full screen black image (can you the windows key to go to the image to exit as a second option)
+- "Mode 1" allows you walk away from your computer as it displays a full screen black image (you can use the windows key to go to the image to exit out as a second option)
 
 - "Mode 0" - disables this mode
 
