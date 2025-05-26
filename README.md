@@ -40,6 +40,9 @@ programs that are not librarys that you will need to install: espeak
 # How To Use
 
 First you will need to download espeak, and when you download the program it will come with a command line folder:
+
+
 ![CommandLine](https://github.com/user-attachments/assets/d4a48faf-e7e9-4756-8272-de3fa4ea0162)
 
-all you need to do is drag all the files into this folder and you are good to go, just run the "Run.bat", (make sure you have install all Libs above)
+
+all you need to do is drag all the files into this folder and you are good to go, just run the "Run.bat", (make sure you have installed all Libs above)
