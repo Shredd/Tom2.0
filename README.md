@@ -57,4 +57,4 @@ First you will need to download espeak, and when you download the program it wil
 ![CommandLine](https://github.com/user-attachments/assets/d4a48faf-e7e9-4756-8272-de3fa4ea0162)
 
 
-all you need to do is drag all the files into this folder and you are good to go, just run the "Run.bat", (make sure you have installed all Libs above)
+all you need to do is drag all the files from this project (Tom 2.0) into the Command_Line folder and you are good to go, just run the "Run.bat" and the program will start, (make sure you have installed all Libs above)
