@@ -12,9 +12,9 @@ Link to project: https://github.com/Shredd/Tom
 
 Tom 2.0 has expanded the Scope of what it can such as:
 
-- Regex Engine to pull out keywords so make it more responsive
+- Regex Engine to pull out keywords to make it more responsive
 
-- Open Notepad when asked
+- Opens Notepad when asked
 
 Hide Mode: 
 
@@ -37,9 +37,13 @@ you will need:
 
 (you can install with pip)
 
-- librarys needed: PyAudio Speech_Recognition Pillow Pygame
+libraries needed:
+- PyAudio
+- Speech_Recognition
+- Pillow
+- Pygame
 
-- programs that are not librarys that you will need to install: espeak
+- Programs that are not libraries that you will need to install: espeak
 
 ---
 
