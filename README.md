@@ -18,7 +18,7 @@ Hide Mode:
 
 - "Mode 0" - disables this mode
 
-(This can be expanded to include many more features such as: Searching Google with Spoken Word, Move Mouse to Avoid computer from going to sleep, API calls to ChatGPT, ECT.)
+(This can be expanded to include many more features such as: Searching Google with Spoken Word, Move Mouse to Avoid Computer From Going To Sleep, API Calls To ChatGPT, ECT.)
 
 
 ---
