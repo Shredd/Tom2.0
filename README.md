@@ -43,7 +43,9 @@ libraries needed:
 - Pillow
 - Pygame
 
-- Programs that are not libraries that you will need to install: espeak
+---
+
+Programs that are not libraries that you will need to install: espeak
 
 ---
 
