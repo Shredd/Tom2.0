@@ -16,6 +16,8 @@ Tom 2.0 has expanded the Scope of what it can such as:
 
 - Opens Notepad when asked
 
+- "AutoClean" - If CCleaner is installed, it will run a basic scan to clean files
+
 Hide Mode: 
 
 - "Mode 1" allows you walk away from your computer as it displays a full screen black image (you can use the windows key to go to the image to exit out as a second option)
