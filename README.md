@@ -12,6 +12,8 @@ Link to project: https://github.com/Shredd/Tom
 
 Tom 2.0 has expanded the Scope of what it can such as:
 
+- Better Error Handling than previous version
+
 - Regex Engine to pull out keywords to make it more responsive
 
 - Opens Notepad when asked
